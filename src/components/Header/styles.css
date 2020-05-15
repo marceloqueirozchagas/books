@@ -1,0 +1,11 @@
+header#main-header{
+    width: 100%;
+    height: 40px;
+    background:#323a46;
+    font-size: 20px;
+    font-family: "Karla", sans-serif;
+    color: #f7f7f7;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
